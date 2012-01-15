@@ -1,0 +1,8 @@
+install this plugin - gvim colorscheme to vim:
+https://github.com/vim-scripts/CSApprox
+
+add to vimrc file 256 colors support:
+set t_Co=256
+colorscheme vividchalk
+
+colors work identical on gvim and vim.
