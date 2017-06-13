@@ -69,18 +69,15 @@ endfunction
 
 hi link rubyDefine          Keyword
 hi link rubySymbol          Constant
-hi link rubyAccess          rubyMethod
-hi link rubyAttribute       rubyMethod
 hi link rubyEval            rubyMethod
 hi link rubyException       rubyMethod
 hi link rubyInclude         rubyMethod
+hi link rubyMacro           rubyMethod
 hi link rubyStringDelimiter rubyString
 hi link rubyRegexp          Regexp
 hi link rubyRegexpDelimiter rubyRegexp
 
 hi link javascriptRegexpString  Regexp
-hi link javascriptNumber        Number
-hi link javascriptNull          Constant
 
 hi link diffAdded               String
 hi link diffRemoved             Statement
