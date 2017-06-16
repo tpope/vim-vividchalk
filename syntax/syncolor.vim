@@ -22,7 +22,7 @@ SynLink rubyDefine              Define
 SynLink rubyAccess              rubyMacro
 SynLink rubyAttribute           rubyMacro
 SynLink rubyMacro               Macro
-SynLink rubyEval                rubyStatement
+SynLink rubyEval                Statement
 SynLink rubyException           Exception
 SynLink rubyInclude             Include
 SynLink rubyRegexp              rubyString
