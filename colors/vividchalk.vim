@@ -7,7 +7,7 @@
 " Based on the Vibrank Ink theme for TextMate
 " Distributable under the same terms as Vim itself (see :help license)
 
-if has("gui_running")
+if has("gui_running") && &background !=# 'dark'
     set background=dark
 endif
 hi clear
